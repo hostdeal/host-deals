@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hostdeals.github.io/host-deals/sitemap.xml
