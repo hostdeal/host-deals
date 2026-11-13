@@ -505,3 +505,9 @@ a {
     padding: 15px 12px;
   }
 }
+.logo-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  object-fit: cover;
+}
